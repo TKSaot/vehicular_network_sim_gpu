@@ -1,0 +1,23 @@
+{
+  "frames_total": 3,
+  "frames_bad": 1,
+  "header_ok": true,
+  "cer": 0.0014191106906338694,
+  "modality": "text",
+  "channel": "awgn",
+  "snr_db": 12.0,
+  "doppler_hz": 0.0,
+  "symbol_rate": 10000.0,
+  "block_fading": false,
+  "mod_scheme": "qpsk",
+  "fec": "hamming74",
+  "interleaver_depth": 8,
+  "mtu_bytes": 1024,
+  "byte_mapping": "permute",
+  "seed": 12345,
+  "header_copies": 3,
+  "drop_bad_frames": false,
+  "tx_id_noise_p": 0.0,
+  "preamble_len": 64,
+  "pilot_len": 32
+}
