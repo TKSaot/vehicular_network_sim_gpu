@@ -1,0 +1,10 @@
+# Pythonキャッシュや仮想環境を除外
+__pycache__/
+*.pyc
+.venv/
+.env
+.DS_Store
+
+# 出力やデータを除外したいなら
+# outputs/
+data/
